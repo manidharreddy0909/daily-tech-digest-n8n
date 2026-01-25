@@ -6,25 +6,25 @@ An AI-powered automation that fetches the latest tech news, summarizes it using 
 ---
 
 ## Workflow Overview
-![Workflow Overview](screenshots/workflow-overview.png)
+![Workflow Overview](workflow-overview.png)
 
 ---
 
 ## Data Source (RSS Feeds)
 The workflow collects tech news from multiple RSS feeds.
-![RSS Input](screenshots/rss-input.png)
+![RSS Input](rss-input.png)
 
 ---
 
 ## AI Summarization
 An AI Agent processes and summarizes the news into concise, readable insights.
-![AI Agent](screenshots/ai-agent.png)
+![AI Agent](ai-agent.png)
 
 ---
 
 ## Final Output (Email Delivery)
 The summarized tech digest is delivered via email automatically.
-![Email Output](screenshots/email-output.png)
+![Email Output](email-output.png)
 
 ---
 
